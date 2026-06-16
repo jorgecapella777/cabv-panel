@@ -1,0 +1,6 @@
+{
+  "name": "Bananera Venezolana Panel Administrativo",
+  "description": "Panel de administración y control logístico para Bananera Venezolana, incluyendo consultas SENIAT y credenciales corporativas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
